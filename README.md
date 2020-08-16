@@ -3,7 +3,7 @@ Camagru is an Instagram-like website. It allows you to take pictures with your w
 You can add picture frame of your choice, comment, like and delete.
 It is the first 42 web project,This project has been developed with HTML/CSS, PHP and Javascript.
 # _Software :
-https://www.apachefriends.org/xampp-files/7.2.32/xampp-windows-x64-7.2.32-0-VC15-installer.exe
+https://www.apachefriends.org/xampp-files/7.2.32/xampp-windows-x64-7.2.32-0-VC15-installer.exe </br>
 https://code.visualstudio.com/download#
 
 # _Clone :
